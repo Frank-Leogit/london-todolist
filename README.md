@@ -1,1 +1,1 @@
-# london-todolist
+Creating a todo-list for a fake London trip. First use of images and lists tags in HTML
